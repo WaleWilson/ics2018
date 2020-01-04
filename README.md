@@ -48,3 +48,5 @@ The following subprojects/components are included. Some of them are not fully im
 * [Nexus-am](https://github.com/NJU-ProjectN/nexus-am)
 * [Nanos-lite](https://github.com/NJU-ProjectN/nanos-lite)
 * [Navy-apps](https://github.com/NJU-ProjectN/navy-apps)
+
+这是来源于一位大佬的文件，希望能给同学们带来一定的帮助，原文链接https://github.com/GQBBBB/ics2018，作者博客https://github.com/GQBBBB/GQBBBB.github.io/issues/6
